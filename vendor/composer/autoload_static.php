@@ -123,6 +123,7 @@ class ComposerStaticInit17d09a60c531f1fc8a9c1a00a7bf7edd
         'N' => 
         array (
             'NunoMaduro\\Collision\\' => 21,
+            'Nilambar\\NepaliDate\\' => 20,
         ),
         'M' => 
         array (
@@ -416,6 +417,10 @@ class ComposerStaticInit17d09a60c531f1fc8a9c1a00a7bf7edd
         'NunoMaduro\\Collision\\' => 
         array (
             0 => __DIR__ . '/..' . '/nunomaduro/collision/src',
+        ),
+        'Nilambar\\NepaliDate\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/ernilambar/nepali-date/src',
         ),
         'Monolog\\' => 
         array (
@@ -3548,6 +3553,8 @@ class ComposerStaticInit17d09a60c531f1fc8a9c1a00a7bf7edd
         'Nette\\Utils\\Type' => __DIR__ . '/..' . '/nette/utils/src/Utils/Type.php',
         'Nette\\Utils\\UnknownImageFileException' => __DIR__ . '/..' . '/nette/utils/src/Utils/exceptions.php',
         'Nette\\Utils\\Validators' => __DIR__ . '/..' . '/nette/utils/src/Utils/Validators.php',
+        'Nilambar\\NepaliDate\\NepaliCalendar' => __DIR__ . '/..' . '/ernilambar/nepali-date/src/NepaliCalendar.php',
+        'Nilambar\\NepaliDate\\NepaliDate' => __DIR__ . '/..' . '/ernilambar/nepali-date/src/NepaliDate.php',
         'Normalizer' => __DIR__ . '/..' . '/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php',
         'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider' => __DIR__ . '/..' . '/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php',
         'NunoMaduro\\Collision\\Adapters\\Laravel\\Commands\\TestCommand' => __DIR__ . '/..' . '/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php',
